@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>s1_user_interface_LLM_Agents</name>
+  <name>s1_user_interface_llm_agents</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
   <maintainer email="nir@sentient-robotics.com">nir</maintainer>
